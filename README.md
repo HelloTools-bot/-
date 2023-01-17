@@ -3,7 +3,6 @@
 [![bStats](https://bstats.org/signatures/bukkit/SuperCode.svg)](https://bstats.org/plugin/bukkit/SuperCode/17424)
 
 ## Download
-
 Join our [Discord Channel](https://discord.gg/7jJ2eFupUX) and download.
 
 ## Donations
