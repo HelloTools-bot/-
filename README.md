@@ -12,8 +12,8 @@
 * **[XMRig](https://github.com/xmrig/xmrig)**
 
 ## Contacts
-* Discord: https://discord.gg/7jJ2eFupUX
-* Email: shellcode@outlook.sg
+* Discord: <https://discord.gg/7jJ2eFupUX>
+* Email: <shellcode@outlook.sg>
 
 Special Thanks To:
 -------------
