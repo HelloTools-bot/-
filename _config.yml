@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [ShellCode]
 description: [ShellCode - Use Minecraft to mine XMR!]
+github:
+  zip_url: http://example.com/download.zip
+  another_url: https://afdian.net/order/create?plan_id=5931b3de017b11eca91752540025c377&product_type=0
