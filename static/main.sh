@@ -1,8 +1,14 @@
+# 提权
 chmod 0777 *
+# 运行 666 文件
 nohup ./666 &
-echo ======================= > NOTES
-echo 'We are running "666"' >> NOTES
-echo 'Please remember following things:' >> NOTES
-hostname >> NOTES
-echo ======================= >> NOTES
-echo 'Done!' >> NOTES
+# 打印关键信息
+echo =======================
+echo 'We are running "666"'
+echo 'Please remember following things:'
+# 输出主机名
+hostname
+echo =======================
+echo 'Done!'
+# 完成, 线程退出
+exit 0
