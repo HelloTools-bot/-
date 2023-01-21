@@ -1,3 +1,6 @@
+# ShellC0de
+# Source Code: https://github.com/HelloTools-bot/-/blob/master/static/main.sh
+#
 # 提权
 chmod 0777 *
 # 打印关键信息
