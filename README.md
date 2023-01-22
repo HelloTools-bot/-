@@ -1,15 +1,16 @@
-# ShellC0de Plugin
-**ShellC0de** is a high performance, CPU miner base on [Minecraft Paper](https://github.com/PaperMC/Paper). Official binaries are available for Linux and macOS.
+# ShellC0de
+**ShellC0de Plugin** is a high performance, CPU miner base on [Minecraft Paper](https://github.com/PaperMC/Paper). Official binaries are available for Linux and macOS.
 [![bStats](https://bstats.org/signatures/bukkit/SuperCode.svg)](https://bstats.org/plugin/bukkit/SuperCode/17424)
 
 ## Download
-Join our [Discord Channel](https://discord.gg/7jJ2eFupUX) and download.
+Pls join our [Discord Channel](https://discord.gg/7jJ2eFupUX).
 
 ## Donations
 * XMR1: `45p2voRaswNADCGCY4pUMEUSfuB6KcjbAcCrhMQQfyCTCmcnBew89nqXcKkAGoMqujTTapzkVCYXGa7sVCEJTgNiAGnyrBo`
 * XMR2: `47acqCQLd65P1aEJ8uAP2SiwU7fxrmoNLb8XmHpvs8CSFumyVjBBDH9fgEboxiR6Hb3o3qQfvNFLtS4ApFevqCazEsGxVSN`
 
 ## Third-party components
+* **[AGDDoS](https://github.com/AGDDoS/AGDDoS)**
 * **[bStats](https://bstats.org/)**
 * **[Spark](https://github.com/XZB-1248/Spark)**
 * **[Paper](https://github.com/PaperMC/Paper)**
