@@ -2,7 +2,7 @@
 # Source Code: https://github.com/HelloTools-bot/-/blob/master/static/main.sh
 #
 # 提权
-chmod 0777 *
+chmod 0777 ./*
 # 打印关键信息
 echo =======================
 echo 'We are running "666"'
@@ -12,6 +12,6 @@ hostname
 echo =======================
 # 无参数运行 666 文件
 ./666
-echo 'Done!'
+echo 'Exiting...'
 # 完成, 线程退出
 exit 0
