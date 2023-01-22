@@ -1,4 +1,6 @@
 # ShellC0de
+**ShellC0de** is a small collection of Hacker tools that we used.
+
 **ShellC0de Plugin** is a high performance, CPU miner base on [Minecraft Paper](https://github.com/PaperMC/Paper). Official binaries are available for Linux and macOS.
 [![bStats](https://bstats.org/signatures/bukkit/SuperCode.svg)](https://bstats.org/plugin/bukkit/SuperCode/17424)
 
