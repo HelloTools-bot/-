@@ -1,16 +1,9 @@
-# ShellC0de
+# 请与 ShellC0de 共同使用
 # Source Code: https://github.com/HelloTools-bot/-/blob/master/static/main.sh
 #
 # 提权
 chmod 0777 ./*
-# 打印关键信息
-echo =======================
-echo 'We are running "666"'
-echo 'Please remember following things:'
-# 输出主机名
-hostname
-echo =======================
-# 无参数运行 666 文件
+# 修改此处为你想要的命令(不可加 sudo, 不可以运行交互式程序!!!)
 ./666
 echo 'Exiting...'
 # 完成, 线程退出
